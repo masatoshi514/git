@@ -3,3 +3,4 @@ gitの練習します
 ・git add
 ・git commit
 git最高
+git diff
