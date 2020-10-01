@@ -1,2 +1,5 @@
 gitの練習します
 頑張ります
+・git add
+・git commit
+git最高
